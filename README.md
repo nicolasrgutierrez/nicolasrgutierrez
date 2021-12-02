@@ -1,11 +1,13 @@
 ## Howdy partner, I'm Nicolas! 👋
 I am currently a Full-Stack Web Development student at Codeup, a 22-week career accelerator program in San Antonio, Texas. I enjoy using my problem-solving skills and detail-oriented style to find and resolve issues in back-end development. I look forward to any tips and tricks we could share by working togther!
 
-I am currently:
+I am currently working on:
 
-- 🔭 My captsone project for Codeup!
+- 🔭 Reviewing my old projects from codeup!
 
 - 🌱 Polishing my backend skills
+
+- 🌱 Learning React
 
 How to reach me:
 
@@ -19,7 +21,7 @@ Fun Stuff:
 
 - 📺 Watching: Just finished Squid Game! On the look for my next show:mag:
 
-- 📕 Reading: Currently waiting for "Hip Hop & Other Things" by Shea Serrano
+- 📕 Reading: Currently reading "Basketball & Other Things" by Shea Serrano
 
 - ⚡ Fun Facts: I love to play video games, watch movies with my kids, and love **almost** everything Disney!:sparkle:
 
