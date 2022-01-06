@@ -19,7 +19,7 @@ Fun Stuff:
 
 - 😃 Pronouns: He/Him
 
-- 📺 Watching: Just finished Squid Game! On the look for my next show:mag:
+- 📺 Watching: Cobra Kai Season 4
 
 - 📕 Reading: Currently reading "Basketball & Other Things" by Shea Serrano
 
