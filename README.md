@@ -3,9 +3,9 @@ I am currently a Full-Stack Web Development student at Codeup, a 22-week career 
 
 I am currently working on:
 
-- 🔭 Reviewing my old projects from codeup!
+- 🔭 Created new projects!
 
-- 🌱 Polishing my backend skills
+- 🌱 Reviewing my frontend skills
 
 - 🌱 Learning React
 
@@ -19,11 +19,11 @@ Fun Stuff:
 
 - 😃 Pronouns: He/Him
 
-- 📺 Watching: Cobra Kai Season 4
+- 📺 Watching: Invincible season 2
 
 - 📕 Reading: Currently reading "Basketball & Other Things" by Shea Serrano
 
-- ⚡ Fun Facts: I love to play video games, watch movies with my kids, and love **almost** everything Disney!:sparkle:
+- ⚡ Fun Facts: I love to play video games, watch movies with my kids, and love **almost** everything Disney!
 
 
 <!--
