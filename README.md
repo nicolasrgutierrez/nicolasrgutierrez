@@ -19,7 +19,7 @@ Fun Stuff:
 
 - 😃 Pronouns: He/Him
 
-- 📺 Watching: Invincible season 2
+- 📺 Watching: Fire Force season 2
 
 - 📕 Reading: Currently reading "Basketball & Other Things" by Shea Serrano
 
