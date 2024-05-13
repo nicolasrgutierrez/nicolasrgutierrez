@@ -1,11 +1,9 @@
 ## Howdy partner, I'm Nicolas! 👋
-I am currently a Full-Stack Web Development student at Codeup, a 22-week career accelerator program in San Antonio, Texas. I enjoy using my problem-solving skills and detail-oriented style to find and resolve issues in back-end development. I look forward to any tips and tricks we could share by working togther!
+I am a former Full-Stack Web Development student at Codeup, a 22-week career accelerator program in San Antonio, Texas. I enjoy using my problem-solving skills and detail-oriented style to find and resolve issues in web development. I look forward to any tips and tricks we could share by working togther!
 
 I am currently working on:
 
-- 🔭 Created new projects!
-
-- 🌱 Reviewing my frontend skills
+- 🌱 Reviewing my JavaScript skills
 
 - 🌱 Learning React
 
