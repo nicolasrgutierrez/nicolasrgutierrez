@@ -19,11 +19,11 @@ Fun Stuff:
 
 - 😃 Pronouns: He/Him
 
-- 📺 Watching: Fire Force season 2
+- 📺 Watching: Attack On Titan Season 4
 
 - 📕 Reading: Currently reading "Basketball & Other Things" by Shea Serrano
 
-- ⚡ Fun Facts: I love to play video games, watch movies with my kids, and love **almost** everything Disney!
+- ⚡ Fun Facts: I love to play video games, watch movies with my kids, and **almost** everything Disney!
 
 
 <!--
